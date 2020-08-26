@@ -1,0 +1,5 @@
+<apex:page standardController="Account" recordSetVar="accounts">
+    <apex:detail>
+
+    </apex:detail>
+</apex:page>

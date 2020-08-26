@@ -1,0 +1,11 @@
+{
+  "orgName": "AskdavisDeveloper",
+  "edition": "Developer",
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "selfSetPasswordInApi": true,
+      "s1EncryptedStoragePref2": false
+    }
+  }
+}
